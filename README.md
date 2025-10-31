@@ -1,5 +1,4 @@
-# Programming Caesar's Cipher Starter Code
-This is a place for you to start building your Programming Caesar's Cipher Project!
+This is the Programming Caesar's Cipher project I created during the Girls Who Code 2025 Summer Pathways Program. This cipher tool allows for the encryption and decryption of accepted messages, which include only uppercase letters. This program uses the Caesar Cipher, which involves shifting letters a certain amount of times to either get an encrypted message or a decrypted message back. The user will input a message using uppercase letters and select a key from 0 to 25, then finally pick if they want their message encrypted or decrypted. Afterwards, the user will receive the encrypted/decrypted result of their message. One thing I struggled with was figuring out the wraparound conditional, but it was actually pretty cool once I got it to work. Originally created on Replit in Python, Programming Caesar's Cipher is the third of five Python Cybersecurity projects from Pathways. I really love ciphers and cryptology/cryptography so this was a fun project for me.
 
 ### Project Requirements
 Your project should:
